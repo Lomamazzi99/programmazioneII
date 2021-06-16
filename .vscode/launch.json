@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prova",
+            "request": "launch",
+            "mainClass": "prova",
+            "projectName": "programmazione II_e4070a08"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - iter",
+            "request": "launch",
+            "mainClass": "iter",
+            "projectName": "programmazione II_e4070a08"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - funzioni",
+            "request": "launch",
+            "mainClass": "funzioni",
+            "projectName": "programmazione II_e4070a08"
+        }
+    ]
+}

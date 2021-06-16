@@ -1,0 +1,11 @@
+JAVA tutorial
+
+1) creazione classe: 
+
+public class Nome_Classe {
+    //costruttore
+    public Nome_Costruttore{
+
+    }
+    
+}

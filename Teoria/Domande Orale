@@ -1,0 +1,36 @@
+﻿orale1: voto - bocciato
+
+3 classe giuste, 1 classe metà, 1 solo commenti ->sufficiente
+
+Domdanda1 = Se controllo il repOk prima di uscire dal costruttore e da qualunque metodo mutazionale allora l'oggetto è sempre consistente?
+Funziona quando il IR di un oggetto dipende solo dai suoi attributi ma se dipende da oggetti/attributi mutabili allora non è detto che sia consistente.
+
+Domdanda2 = Che cos'è la data Abstraction secondo la liskov? Qual è l'obiettivo?Che cos'è la località?
+
+Domdanda3 = Differenza tra procedura e metodo? Per controllare lo stato dell'oggetto dobbiamo controllare la procedura o il metodo?
+
+Domdanda4 = Cosa vuol dire tipo apparente e tipo concreto?
+
+orale2: voto - bocciato
+
+Domdanda1 = Perchè scegliere final al posto di protected anche se è finale? Se non è inevitabile è meglio precludere ciò per non esporre la rappresentazione e quindi non esporre dettagli implementativi.
+Altrimenti sarei obbligato a utilizzare sempre quella rappresentazione.
+Se abbiamo un attributo protected non facciamo get.
+
+Domdanda2 = Definizione di invariante di rappresentazione? Che valori può assumere?Qual è il suo codominio?
+
+Domdanda3 = Cosa vuol dire che Java è un linguaggio apertamente tipato?
+
+Domdanda4 = Cosa vuol dire tipo apparente e tipo concreto?
+
+
+orale3: voto - ritirato
+
+Domdanda1 = Che cos'è la funzione d'astrazione? Qual è il suo dominio e il suo codominio?
+
+Domdanda2 = Qual è lo scopo di estendere una classe?
+
+Domdanda3 = meccanismo del dispatching -> che cos'è , come entra il giorno
+
+Domdanda4 = Che cosa sono gli iteratori? a cosa servono? L'astrazione iterazione?
+
